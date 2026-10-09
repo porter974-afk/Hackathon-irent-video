@@ -7,7 +7,7 @@
 ## 專案展示影片
 
 - **GitHub 影片檔案：** [iren-v1.mp4](./iren-v1.mp4)
-- **YouTube 展示影片：** 請在此填入 YouTube 影片網址。
+- **YouTube 展示影片：** https://youtu.be/n3If-9fRRPc
 
 ## 專案目標
 
